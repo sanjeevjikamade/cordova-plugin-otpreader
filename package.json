@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/home/snap70/plugin/cordova-plugin-otpreader",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/home/snap70/plugin/cordova-plugin-otpreader",
+        "spec": "/home/snap70/plugin/cordova-plugin-otpreader",
+        "type": "directory"
+      },
+      "/home/snap70/worklight-8/IndiaBulls/node_modules"
+    ]
+  ],
+  "_from": "../../plugin/cordova-plugin-otpreader",
+  "_id": "otpreader@0.1.0",
+  "_inCache": true,
+  "_location": "/otpreader",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/home/snap70/plugin/cordova-plugin-otpreader",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/home/snap70/plugin/cordova-plugin-otpreader",
+    "spec": "/home/snap70/plugin/cordova-plugin-otpreader",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "file:../../plugin/cordova-plugin-otpreader",
+  "_shasum": "07db5db4d9ee425d80bae979917130dda91179d4",
+  "_shrinkwrap": null,
+  "_spec": "/home/snap70/plugin/cordova-plugin-otpreader",
+  "_where": "/home/snap70/worklight-8/IndiaBulls/node_modules",
+  "author": "",
+  "cordova": {
+    "id": "cordova-plugin-otpreader",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "ISC",
+  "name": "otpreader",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "0.1.0"
+}
